@@ -1,100 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13e695db-703d-4f10-9117-f6223fa850fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Scenario_interface/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Scenario_interface/test_ask_nor_exec_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Scenario_interface/test_ask_pk_exec_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Scenario_interface/test_dt_datiqi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/UI/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_ass_get.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_ass_put.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_ass_query_red_envelope_info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_ass_small_class_sign.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_ass_snatch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_already_snatched.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_class_begin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_class_lesson.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_delect_student_answer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_end.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_get_class_lesson.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_get_main_answer_info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_get_main_class_pk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_get_main_pk_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_get_main_sign.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_get_red_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_get_settlement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_handout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_poll_all_snatch_dynamic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_save_answer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_start_answer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_start_class_problem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_statistics_class_problem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_stop_class_problem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_top_main_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/interfaces/test_lec_topic_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_ask_nor_mou_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_ask_nor_mou_ques_cancel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_ask_pk_mou_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_ask_pk_mou_ques_cancel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_cancel_class_ask_nor_mou_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_cancel_class_ask_pk_mou_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_cancel_class_snatch_ordinary_red_enve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_cancel_class_snatch_spring_festival_red_enve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_dt_start_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_red_ask_nor_mou_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_red_ask_pk_mou_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_revoke_snatch_ordinary_red_enve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_snatch_ordinary_red_enve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_snatch_ordinary_red_enve_interrupt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/multi_scenario_interface/test_snatch_spring_festival_red_enve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/test/test_ask_nor_mou_ques.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/votecmd.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/assitant.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/autogui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/cap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/lecture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/readdll.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/slide_vali_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/votecmd.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver_2.29.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver_2.42.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/auto_20190114.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/auto_20190115.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/core.v2.9.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/electron/logs/20181224.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/electron/logs/20181225.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/electron_chrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/electron_sign.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/exec_js.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/fail_data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/py_execjs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/test_ask_nor_mou_ques_times.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/testui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/topicList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report-comp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-06_22-01-23.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-08_22-01-23.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-09_22-01-03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-10_22-07-44.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-11_22-01-04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-12_22-26-52.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-13_22-01-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-14_22-01-01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-14_22-43-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_2019-01-15_22-01-03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/statistics.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_suites/run_all_cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_suites/run_all_cases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/send_email.py" afterDir="false" />
-    </list>
+    <list default="true" id="13e695db-703d-4f10-9117-f6223fa850fd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -664,8 +571,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_suites/run_all_cases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="248">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#45#60#0" expanded="true" />
               </folding>
@@ -1076,7 +983,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24508321" />
@@ -1354,8 +1261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_suites/run_all_cases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="248">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#45#60#0" expanded="true" />
           </folding>
