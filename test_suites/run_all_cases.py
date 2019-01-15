@@ -12,8 +12,7 @@ from utils.simple_report import report_content
 
 
 # 测试用例存放路径
-test_dir = r"..\cases\multi_scenario_interface"
-# test_dir = r"..\cases\test"
+test_dir = r"..\cases\test"
 # 匹配规则
 rule = 'test*.py'
 discover = unittest.defaultTestLoader.discover(test_dir, rule)
@@ -32,18 +31,3 @@ runner = HTMLTestRunner(fp,
                         )
 runner.run(discover)
 fp.close()
-# 生成邮件报告内容
-report_content(report_name)
-
-report = os.path.join('..\\', 'reports', 'report.html')
-f = open(report, "rb")
-mail_body = f.read()
-f.close()
-
-# se = SendEmail()
-#
-# msg = se.create_email(u"莎莎", u"测试", u"【双师接口自动化测试报告】_自动发送，请勿回复", html=mail_body, attach_addr=filename, attach_name=report_name)
-# se.send_email("961100678@qq.com", "znpcefmizdvsbahf", msg,
-#               ["dongshasha@gaosiedu.com", "majingna@gaosiedu.com", "qiyajing@gaosiedu.com",
-#                "wangshanshan@gaosiedu.com", "liyuan0@gaosiedu.com", "panguoqing@gaosiedu.com",
-#                "outao@gaosiedu.com", "jiangzushuai@gaosiedu.com"])
